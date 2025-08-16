@@ -1,4 +1,4 @@
-a task assigned for me in DEPI , machine learning course .
+a task assigned to me in DEPI , machine learning course .
 the task is an application on linear regression .
 there are three models:
 1. single feature model
